@@ -23,3 +23,5 @@ Added some `argparse` for some more testing.
 ```
 
 Pretty simple but had fun rendering a gif.
+
+![Example](example.gif)
